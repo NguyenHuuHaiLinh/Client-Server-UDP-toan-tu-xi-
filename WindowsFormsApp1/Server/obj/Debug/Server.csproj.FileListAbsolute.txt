@@ -1,0 +1,7 @@
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\bin\Debug\Server.exe.config
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\bin\Debug\Server.exe
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\bin\Debug\Server.pdb
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\obj\Debug\Server.exe
+D:\Lap trinh mang\Client-Server UDP\WindowsFormsApp1\Server\obj\Debug\Server.pdb
